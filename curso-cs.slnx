@@ -4,4 +4,5 @@
   <Project Path="aula03/aula03.csproj" Id="1e783628-3432-4fb0-87fa-d60b590169d5" />
   <Project Path="aula04/aula04.csproj" Id="f43e9f49-48fb-4041-840f-ffec5b320c60" />
   <Project Path="aula05/aula05.csproj" Id="cf4c35a5-3cd7-419b-942a-97c510a42d43" />
+  <Project Path="aula06/aula06.csproj" Id="50940bb3-3323-4145-83c0-356de965feaf" />
 </Solution>
