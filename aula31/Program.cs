@@ -60,4 +60,6 @@ public class Inimigo
         Console.WriteLine($"Nome......: {nome}");
         Console.WriteLine($"Alerta....: {alerta}\n");
     }
+
+    
 }
