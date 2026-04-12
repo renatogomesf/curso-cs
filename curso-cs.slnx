@@ -1,33 +1,34 @@
 <Solution>
   <Project Path="aula01/aula01.csproj" />
-  <Project Path="aula02/aula02.csproj" />
-  <Project Path="aula03/aula03.csproj" Id="1e783628-3432-4fb0-87fa-d60b590169d5" />
-  <Project Path="aula04/aula04.csproj" Id="f43e9f49-48fb-4041-840f-ffec5b320c60" />
-  <Project Path="aula05/aula05.csproj" Id="cf4c35a5-3cd7-419b-942a-97c510a42d43" />
-  <Project Path="aula06/aula06.csproj" Id="50940bb3-3323-4145-83c0-356de965feaf" />
-  <Project Path="aula07/aula07.csproj" Id="d2bdf792-dfab-4f6e-bbfe-8cd48b63ee9f" />
-  <Project Path="aula08/aula08.csproj" Id="4c193e61-08ef-466d-8266-94108078a511" />
-  <Project Path="aula10/aula10.csproj" Id="b35276a2-dc12-4fad-aba8-ec0e473fe283" />
-  <Project Path="aula11/aula11.csproj" Id="15025258-d5aa-4767-b2e9-82cd9998654e" />
-  <Project Path="aula15/aula15.csproj" Id="a95d06d4-5d65-4876-b592-a5d6a4e8146a" />
-  <Project Path="aula17/aula17.csproj" Id="0b0475dd-ea36-4883-ba93-87eb3e4bbb82" />
-  <Project Path="aula18/aula18.csproj" Id="dc3ee140-2eba-4870-920b-6187327f92ee" />
-  <Project Path="aula22/aula22.csproj" Id="e4ec1719-aa3a-459c-9d2a-fc4d405a316c" />
-  <Project Path="aula23/aula23.csproj" Id="810eb499-8dfa-4292-9518-fdcecc77f7a5" />
-  <Project Path="aula24/aula24.csproj" Id="57e30539-d90e-4436-9fa8-cfda64813456" />
-  <Project Path="aula25/aula25.csproj" Id="577d7055-4e0f-4092-9ebe-e7516b386aea" />
-  <Project Path="aula26/aula26.csproj" Id="8241300d-3a79-4c6f-8f83-a63f991afa8d" />
-  <Project Path="aula27/aula27.csproj" Id="ce40c371-7c99-4060-a21e-530dd49266e5" />
-  <Project Path="aula28/aula28.csproj" Id="a2032ae6-a2b7-4998-adc0-bc88dd46e8bc" />
-  <Project Path="aula29/aula29.csproj" Id="b1aa3685-e102-4191-8c79-f9b459003daf" />
-  <Project Path="aula30/aula30.csproj" Id="24fb1c1e-6f8e-41f8-bf29-b7518244d682" />
-  <Project Path="aula31/aula31.csproj" Id="78cc858c-c80f-46b2-a0d6-355636530b16" />
-  <Project Path="aula34/aula34.csproj" Id="5db3ebfe-67e1-4e0d-ae0e-bec28bf7fc61" />
-  <Project Path="aula35/aula35.csproj" Id="4b0d7b33-e072-412f-a592-942775716041" />
-  <Project Path="aula38/aula38.csproj" Id="c7e98006-596e-4947-a856-ea9d8f17ab03" />
-  <Project Path="aula39/aula39.csproj" Id="e86374c9-dbcc-4314-90b3-ca8923a1356c" />
-  <Project Path="aula40/aula40.csproj" Id="f7706c7c-e256-4581-b048-7ed0bb7f82e6" />
-  <Project Path="aula41/aula41.csproj" Id="3296ec83-7cb6-4d54-94b5-f7406d03dbd0" />
-  <Project Path="aula42/aula42.csproj" Id="28cf6115-b8a8-4499-85f9-761483ac7cc0" />
-  <Project Path="aula43/aula43.csproj" Id="af9ce18c-8726-4291-97eb-8de927292c3b" />
+  <Project Path="aula02/aula02 - primeiro programa.csproj" />
+  <Project Path="aula03/aula03 - variáveis.csproj" Id="1e783628-3432-4fb0-87fa-d60b590169d5" />
+  <Project Path="aula04/aula04 - escopo de variáveis.csproj" Id="f43e9f49-48fb-4041-840f-ffec5b320c60" />
+  <Project Path="aula05/aula05 - operadores e operações.csproj" Id="cf4c35a5-3cd7-419b-942a-97c510a42d43" />
+  <Project Path="aula06/aula06 - formatando a saída no console.csproj" Id="50940bb3-3323-4145-83c0-356de965feaf" />
+  <Project Path="aula07/aula07 - constantes em c#.csproj" Id="d2bdf792-dfab-4f6e-bbfe-8cd48b63ee9f" />
+  <Project Path="aula08/aula08 - lendo valores do teclado.csproj" Id="4c193e61-08ef-466d-8266-94108078a511" />
+  <Project Path="aula10/aula10 - enumeradores (enum).csproj" Id="b35276a2-dc12-4fad-aba8-ec0e473fe283" />
+  <Project Path="aula11/aula11 - conversões de tipos (typecast).csproj" Id="15025258-d5aa-4767-b2e9-82cd9998654e" />
+  <Project Path="aula15/aula15 - switch case.csproj" Id="a95d06d4-5d65-4876-b592-a5d6a4e8146a" />
+  <Project Path="aula17/aula17 - array.csproj" Id="0b0475dd-ea36-4883-ba93-87eb3e4bbb82" />
+  <Project Path="aula18/aula18 - matrizes.csproj" Id="dc3ee140-2eba-4870-920b-6187327f92ee" />
+  <Project Path="aula22/aula22 - foreach.csproj" Id="e4ec1719-aa3a-459c-9d2a-fc4d405a316c" />
+  <Project Path="aula23/aula23 - métodos para arrays p1.csproj" Id="810eb499-8dfa-4292-9518-fdcecc77f7a5" />
+  <Project Path="aula24/aula24 - métodos da classe.csproj" Id="57e30539-d90e-4436-9fa8-cfda64813456" />
+  <Project Path="aula25/aula25 - passagem por valor e por referência.csproj" Id="577d7055-4e0f-4092-9ebe-e7516b386aea" />
+  <Project Path="aula26/aula26 - argumento out.csproj" Id="8241300d-3a79-4c6f-8f83-a63f991afa8d" />
+  <Project Path="aula27/aula27 - argumento params.csproj" Id="ce40c371-7c99-4060-a21e-530dd49266e5" />
+  <Project Path="aula28/aula28 - classes e objetos.csproj" Id="a2032ae6-a2b7-4998-adc0-bc88dd46e8bc" />
+  <Project Path="aula29/aula29 - construtores e destrutores.csproj" Id="b1aa3685-e102-4191-8c79-f9b459003daf" />
+  <Project Path="aula30/aula30 - sobrecarga de construtores.csproj" Id="24fb1c1e-6f8e-41f8-bf29-b7518244d682" />
+  <Project Path="aula31/aula31 - classes static.csproj" Id="78cc858c-c80f-46b2-a0d6-355636530b16" />
+  <Project Path="aula34/aula34 - herança.csproj" Id="5db3ebfe-67e1-4e0d-ae0e-bec28bf7fc61" />
+  <Project Path="aula35/aula35 - cadeira de herança e construtor de classe base.csproj" Id="4b0d7b33-e072-412f-a592-942775716041" />
+  <Project Path="aula38/aula38 - métodos virtuais.csproj" Id="c7e98006-596e-4947-a856-ea9d8f17ab03" />
+  <Project Path="aula39/aula39 - classes e métodos abstratos.csproj" Id="e86374c9-dbcc-4314-90b3-ca8923a1356c" />
+  <Project Path="aula40/aula40 - classe sealed.csproj" Id="f7706c7c-e256-4581-b048-7ed0bb7f82e6" />
+  <Project Path="aula41/aula41 - acessors get e set.csproj" Id="3296ec83-7cb6-4d54-94b5-f7406d03dbd0" />
+  <Project Path="aula42/aula42 - indexadores de classes.csproj" Id="28cf6115-b8a8-4499-85f9-761483ac7cc0" />
+  <Project Path="aula43/aula43 - interfaces.csproj" Id="af9ce18c-8726-4291-97eb-8de927292c3b" />
+  <Project Path="aula44/aula44 - struct.csproj" Id="139a092e-8aa0-4bb0-8c0f-b5e079e87f15" />
 </Solution>
