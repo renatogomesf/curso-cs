@@ -32,4 +32,5 @@
   <Project Path="aula43/aula43 - interfaces.csproj" Id="af9ce18c-8726-4291-97eb-8de927292c3b" />
   <Project Path="aula44/aula44 - struct.csproj" Id="139a092e-8aa0-4bb0-8c0f-b5e079e87f15" />
   <Project Path="aula45 - array de structs/aula45 - array de structs.csproj" Id="ff3c75b6-133f-444d-befc-d39471dd272a" />
+  <Project Path="aula46 - métodos que retornam objetos/aula46 - métodos que retornam objetos.csproj" Id="d3ac92e1-725b-4b69-beb1-78078958d66f" />
 </Solution>
