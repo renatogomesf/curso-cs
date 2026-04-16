@@ -35,4 +35,5 @@
   <Project Path="aula46 - métodos que retornam objetos/aula46 - métodos que retornam objetos.csproj" Id="d3ac92e1-725b-4b69-beb1-78078958d66f" />
   <Project Path="aula50 - delegates/aula50 - delegates.csproj" Id="19a783fe-06ff-4fb3-8279-68b167f54696" />
   <Project Path="aula51 - argumentos de entrada do programa/aula51 - argumentos de entrada do programa.csproj" Id="fc5fdd01-9f0d-46fd-9edf-d43a2d64aacb" />
+  <Project Path="aula52 - excecoes(try catch finally) P1/aula52 - excecoes(try catch finally) P1.csproj" Id="f3d453ac-7b88-419a-9487-ecce10f025c3" />
 </Solution>
