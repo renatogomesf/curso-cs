@@ -39,4 +39,5 @@
   <Project Path="aula53 - excecoes(try catch finally) P2/aula53 - excecoes(try catch finally) P2.csproj" Id="f84b52f9-2725-49b5-8e48-99d6725c1858" />
   <Project Path="aula54 - namespaces/aula54 - namespaces.csproj" Id="f9520a5f-5c8a-44a4-8719-a1d9f7aca0c3" />
   <Project Path="aula55 - colecao dictionary/aula55 - colecao dictionary.csproj" Id="db2f4592-e903-4717-ac75-5c3ff27606c4" />
+  <Project Path="aula56 - colecao linkedlist/aula56 - colecao linkedlist.csproj" Id="a32cc153-db91-4811-84e8-1baf33d54e94" />
 </Solution>
